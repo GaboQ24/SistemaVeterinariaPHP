@@ -1,0 +1,2 @@
+Carlos,84516497,carlos25@gmail.com,Claus,Gato,2023-07-23,1,2025-02-25,09:45,"Sarpullido en la pata derecha","Dra. Johnson"
+Carlos,84516497,carlos25@gmail.com,Claus,Perro,2025-03-02,0,2025-03-30,15:01,"Porque si","Dr. Smith"

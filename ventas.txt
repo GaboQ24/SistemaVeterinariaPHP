@@ -1,0 +1,6 @@
+Nombre: Jose Francisco Porras, Producto: Caña, Cantidad: 25, Precio Unitario: 1200
+Nombre: Maryangel Solorzano, Producto: Toallas, Cantidad: 1, Precio Unitario: 1265
+Nombre: Maryangel Solorzano, Producto: Toallas, Cantidad: 5, Precio Unitario: 1265
+Nombre: Maryangel Solorzano, Producto: Toallas, Cantidad: 4, Precio Unitario: 1265
+Nombre: Danisa Luisiana, Producto: Cera para pelo, Cantidad: 10, Precio Unitario: 1450
+Nombre: william Brenes, Producto: Cafe, Cantidad: 50, Precio Unitario: 1600

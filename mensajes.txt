@@ -1,0 +1,44 @@
+Remitente: Julio Garcia
+Teléfono Remitente: 65871254
+Correo Remitente: jul256@gmail.com
+Destinatario: Jonas Perez
+Teléfono Destinatario: 89475412
+Ciudad Destinatario: ciudad_cercana
+Dirección Destinatario: Limon, Costa Rica
+Tipo de Mensaje: urgente
+Contenido: Los envios de Banano se van a atrasar 2 semans, debido a los fuertes vientos en la zona.
+Tiempo Estimado de Entrega: 2 días
+
+Remitente: Julio Garcia
+Teléfono Remitente: 65871254
+Correo Remitente: jul256@gmail.com
+Destinatario: Jonas Perez
+Teléfono Destinatario: 26548732
+Ciudad Destinatario: otra_region
+Dirección Destinatario: Cartagu, Costa Rica
+Tipo de Mensaje: normal
+Contenido: Las uñas de perro se venden mas caras segun su largo y ancho
+Tiempo Estimado de Entrega: 5 días
+
+Remitente: Karen Jwhanl
+Teléfono Remitente: 45827589
+Correo Remitente: ejemplo@gmail.com
+Destinatario: Clautos Eugenio
+Teléfono Destinatario: 65481324
+Ciudad Destinatario: otra_region
+Dirección Destinatario: Alajuela, Costa Rica
+Tipo de Mensaje: urgente
+Contenido: Vendo Ropa de color naranja
+Tiempo Estimado de Entrega: 5 días
+
+Remitente: Karen Jwhanl
+Teléfono Remitente: 45827589
+Correo Remitente: ejemplo@gmail.com
+Destinatario: Clautos Eugenio
+Teléfono Destinatario: 556482648
+Ciudad Destinatario: otra_region
+Dirección Destinatario: Alajuela, Costa Rica
+Tipo de Mensaje: urgente
+Contenido: lo que sea
+Tiempo Estimado de Entrega: 5 días
+
